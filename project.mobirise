@@ -44,7 +44,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#msg-box5-NaN\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#slider2-NaN\">Work</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#features1-NaN\" aria-expanded=\"false\">Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Internship</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://kdocs.cn/l/csnePjuQTeTH [金山文档] 葛佳怡Jiayi Ge-Resume.pdf\">DOWNLOAD CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#msg-box3-NaN\">CONTACT</a></li>",
+          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#msg-box5-NaN\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#slider2-NaN\">Work</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#features1-NaN\" aria-expanded=\"false\">Music</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#msg-box4-NaN\">Internship</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://kdocs.cn/l/csnePjuQTeTH [金山文档] 葛佳怡Jiayi Ge-Resume.pdf\">DOWNLOAD CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#msg-box3-NaN\">CONTACT</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -467,7 +467,7 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
-              "color": "#ffffff"
+              "color": "#000000"
             }
           },
           "headerAlign": "left",
@@ -505,7 +505,7 @@
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/ac76c69c4ecba711a45b3a6592227e8.jpg",
+              "src": "@PROJECT_PATH@/assets/images/c02bef8be68479cf3f50318168a0a87-2.jpeg",
               "link": "",
               "alt": "",
               "linkInNewWindow": false
@@ -591,7 +591,7 @@
             }
           },
           "title": "CBN",
-          "text": "<p><b>Intern , Print Media | April, 2020 - May, 2020, Shanghai</b></p><p>-Southern Jiangsu Province high-tech industry and offshore trade research</p><p>-Suzhou three magic weapons collaborate on research to help complete IT operations and other business butt </p><p>-help teachers find relevant content and information documenting</p>",
+          "text": "<p><b>Intern , Print Media | April, 2020 - May, 2020, Shanghai\n</b></p><p>\n</p><p>-Southern Jiangsu Province high-tech industry and offshore trade research\n</p><p>\n</p><p>-Suzhou three magic weapons collaborate on research to help complete IT operations and other business butt\n</p><p>\n</p><p>-help teachers find relevant content and information documenting</p>",
           "_tags": [
             "Theme"
           ],
