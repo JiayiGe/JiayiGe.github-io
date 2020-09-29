@@ -44,7 +44,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"false\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#msg-box5-NaN\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Work</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\" aria-expanded=\"false\">Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Enternship</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://mobirise.com/\">DOWNLOAD CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#msg-box3-NaN\">CONTACT</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#msg-box5-NaN\">Home</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#slider2-NaN\">Work</a><a data-app-btn=\"true\" class=\"dropdown-item text-primary\" href=\"index.html#features1-NaN\" aria-expanded=\"false\">Music</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Internship</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-default btn-default-outline\" href=\"https://kdocs.cn/l/csnePjuQTeTH [金山文档] 葛佳怡Jiayi Ge-Resume.pdf\">DOWNLOAD CV</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#msg-box3-NaN\">CONTACT</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -100,7 +100,7 @@
             "showText": true,
             "showButtons": true,
             "inverse": false,
-            "imageSize": 50,
+            "imageSize": "37",
             "paddingTop": 3,
             "paddingBottom": 3,
             "bgImageRadio": false,
@@ -137,8 +137,8 @@
           },
           "title": "JIAYI GE",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p><b>Student from Nanjing University\n</b></p><p><b>Majoring in Communication &amp; Finance</b></p><p><b><br></b></p><p>\n</p><p>\n</p><p><b>Music Producer | Rock | Metalic&nbsp;</b></p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"assets/files/Jiayi-Ge_Resume.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD CV</a>",
+          "text": "<p><b>Student from Nanjing University\n</b></p><p>-Majoring in Journalism &amp; Finance</p><p>-People's Scholarship in 2019, Nov.</p><p><b><br></b></p><p>\n</p><p>\n</p><p><b>Music Producer | Rock | Metalic&nbsp;</b></p><p>-Chairperson of NJU Rock Republic &amp; Minister of Bravo Guitar Association</p><p>-Keyboard | Bass Player</p><p><br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://kdocs.cn/l/csnePjuQTeTH [金山文档] 葛佳怡Jiayi Ge-Resume.pdf\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD CV</a>",
           "_tags": [
             "Theme"
           ],
@@ -150,7 +150,7 @@
             "showMeta": true
           },
           "title": "Work Completed",
-          "meta": "Communication Area",
+          "meta": "Journalism Area",
           "_tags": [
             "Theme"
           ],
@@ -174,11 +174,12 @@
                 "contentAlign": "right",
                 "text": "<br>\n<br><b>Less than a year after listing,<br>Luckin Coffeet faced a crisis.<br>Data fraud, stock prices crash.&nbsp;</b><br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://m.thepaper.cn/newsDetail_forward_6827278\" data-toolbar=\"-mbrBtnMove\">Read</a>",
+                "overlay": true,
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/69d85293346d015908e99578041d60b9.png",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -186,11 +187,12 @@
                 "contentAlign": "left",
                 "text": "<b>Observation 1<br></b><br>Father used to do wholesale business<br>But he changed to provide takeaway service during the epidemic.\n<br>\n<br>I worked as a delivery woman.<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read</a>",
+                "overlay": true,
                 "alt": ""
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/ff9309409e9af0ddfc0a212d2a883181.png",
-                "active": false,
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -198,6 +200,7 @@
                 "contentAlign": "center",
                 "text": "<b>Observation 2</b><br><br>\n<br>Top sophomore makes up lessons for their classmates on the Internet.&nbsp;<br>",
                 "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Read</a>",
+                "overlay": true,
                 "alt": ""
               }
             ]
@@ -221,8 +224,8 @@
           "_params": {
             "showMeta": true
           },
-          "title": "DROP-DEAD EASY WEBSITE MAKER",
-          "meta": "By John Smith posted July 30, 2015",
+          "title": "<br><br><br>Music Compositions",
+          "meta": "Bands of Jiayi Ge",
           "_tags": [
             "Theme"
           ],
@@ -237,8 +240,8 @@
             "showTitles": true,
             "showCaptions": true,
             "showButtons": true,
-            "paddingTop": "4",
-            "paddingBottom": 3,
+            "paddingTop": "0",
+            "paddingBottom": "4",
             "columns": "2",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -278,7 +281,7 @@
           },
           "title1": "南极料理队",
           "caption1": "来自南京大学的双人后摇组合<br>点击下方聆听<br>A Flight To Arora",
-          "button1": "<a data-app-btn=\"true\" href=\"https://y.music.163.com/m/song?id=1412551147&amp;userid=1368999785\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Listen</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://y.music.163.com/m/song?id=1412551147&amp;userid=1368999785\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Listen</a> ",
           "media2": {
             "image": {
               "active": true,
@@ -301,7 +304,7 @@
           },
           "title2": "Prophecy‘s Fall",
           "caption2": "A band consisting of 3 students from China, 1 guitar player from Malaysia and 1 guitar player from France.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://www.xiami.com/song/1810913883\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\">Listen</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://www.xiami.com/song/1810913883\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-music mbr-iconfont mbr-iconfont-btn\"></span>Listen</a>",
           "media3": {
             "image": {
               "active": true,
@@ -394,6 +397,18 @@
           }
         },
         {
+          "_params": {
+            "showMeta": true
+          },
+          "title": "Internship Experience",
+          "meta": "From 2019-2020",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-NaN"
+        },
+        {
           "_inherit": "msg-box5",
           "_params": {
             "showTitle": true,
@@ -403,7 +418,7 @@
             "inverse": false,
             "imageSize": "14",
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -439,8 +454,76 @@
               "size": 0
             }
           },
-          "title": "Working Experience",
-          "text": "<p>Jiayi Ge took her internship in the macro group of Guolian Securities Research Institute from May 20th, 2020 to September 1st, 2020. During this period, Miss Ge was mainly responsible for writing research papers, making semi-annual comments of the performance of individual share and making plea of defense.&nbsp;</p>",
+          "title": "Guolian Securities Company<br>",
+          "text": "<p><b>Intern , Research Institute | May, 2020 - Sep, 2020, Wuxi</b></p><p>Jiayi Ge took her internship in the macro group of Guolian Securities Research Institute from May 20th, 2020 to September 1st, 2020. During this period, Miss Ge was mainly responsible for writing research papers, making semi-annual comments of the performance of individual share and making plea of defense.&nbsp;</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#000000"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#ffffff"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-NaN"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "14",
+            "paddingTop": "2",
+            "paddingBottom": "0",
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ac76c69c4ecba711a45b3a6592227e8.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Guotai Asset Management Limited<br>",
+          "text": "<p><b>Intern , operations management | June, 2019 - Aug, 2019, Shanghai</b></p><p>Jiayi was responsible for financial accounting functions, including accounting net, making semi-annual report, transaction auditing, valuation, information disclosure and other operations, responsible for docking the custodian bank.</p>",
           "_tags": [
             "Theme"
           ],
@@ -452,7 +535,75 @@
               "color": "#ffffff"
             },
             ".mbr-article": {
+              "color": "#000000"
+            }
+          },
+          "headerAlign": "left",
+          "meta": "By John Smith posted July 30, 2015",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>",
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-NaN"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showText": true,
+            "showButtons": false,
+            "inverse": false,
+            "imageSize": "14",
+            "paddingTop": "2",
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#faaf40",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ac76c69c4ecba711a45b3a6592227e8.jpg",
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "CBN",
+          "text": "<p><b>Intern , Print Media | April, 2020 - May, 2020, Shanghai</b></p><p>-Southern Jiangsu Province high-tech industry and offshore trade research</p><p>-Suzhou three magic weapons collaborate on research to help complete IT operations and other business butt </p><p>-help teachers find relevant content and information documenting</p>",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-header__text": {
               "color": "#ffffff"
+            },
+            ".mbr-header__subtext": {
+              "color": "#ffffff"
+            },
+            ".mbr-article": {
+              "color": "#000000"
             }
           },
           "headerAlign": "left",
@@ -533,7 +684,7 @@
         {
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
             "parallax": true,
@@ -545,15 +696,22 @@
           },
           "logo": {
             "image": {
-              "src": "images/footer-logo.png",
+              "src": "@PROJECT_PATH@/assets/images/4b211c551d43ecc886a2a005c83debb2-1.png",
               "class": "mbr-contacts__img mbr-contacts__img--left",
               "width": 265,
-              "active": true
+              "link": "",
+              "alt": "",
+              "linkInNewWindow": false
             },
             "iconFont": {
               "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "linkInNewWindow": false,
+              "name": "github",
+              "family": "Mobirise2",
               "link": "https://mobirise.com",
-              "size": 0
+              "size": "",
+              "color": "#faaf40",
+              "active": true
             }
           },
           "text1": "<strong>ADDRESS</strong><strong><br></strong>江苏省南京市仙林大道163号南京大学",

@@ -37,13 +37,31 @@
   text-align: center;
 }
 #msg-box4-NaN .mbr-header__text {
-  color: #ffffff;
+  color: #000000;
 }
 #msg-box4-NaN .mbr-header__subtext {
   color: #ffffff;
 }
 #msg-box4-NaN .mbr-article {
   color: #ffffff;
+}
+#msg-box4-NaN .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-NaN .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-NaN .mbr-article {
+  color: #000000;
+}
+#msg-box4-NaN .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-NaN .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-NaN .mbr-article {
+  color: #000000;
 }
 #msg-box3-NaN .mbr-header .mbr-header__text {
   text-align: center;
